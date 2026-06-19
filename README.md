@@ -32,7 +32,7 @@ This repository contains a production-style but fresher-friendly BDD automation 
 
 ## Setup Instructions
 
-1. Install JDK 17 and Maven.
+1. Install JDK 21 and Maven.
 2. Open the project folder in VS Code.
 3. Run:
 

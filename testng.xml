@@ -1,8 +1,13 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Banking BDD Suite" parallel="tests" thread-count="2">
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="ECommerce BDD Suite"
+       parallel="tests"
+       thread-count="4">
+
     <test name="Cucumber Features">
         <classes>
-            <class name="com.bank.framework.runners.TestRunner"/>
+            <class name="com.ecommerce.framework.runners.TestRunner"/>
         </classes>
     </test>
+
 </suite>

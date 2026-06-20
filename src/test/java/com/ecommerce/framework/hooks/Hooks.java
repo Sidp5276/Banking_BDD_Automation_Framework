@@ -1,8 +1,8 @@
-package com.bank.framework.hooks;
+package com.ecommerce.framework.hooks;
 
-import com.bank.framework.config.ConfigReader;
-import com.bank.framework.driver.DriverFactory;
-import com.bank.framework.utils.ScreenshotUtil;
+import com.ecommerce.framework.config.ConfigReader;
+import com.ecommerce.framework.driver.DriverFactory;
+import com.ecommerce.framework.utils.ScreenshotUtil;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

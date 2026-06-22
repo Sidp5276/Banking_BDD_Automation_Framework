@@ -202,7 +202,7 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+
 
 **SDET Automation Framework Project**
 
